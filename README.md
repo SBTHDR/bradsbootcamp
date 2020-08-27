@@ -16,7 +16,6 @@ This repository is motivated by [Brad Schifft/@learnwebcode](https://twitter.com
 ## Clone
 
 - `git clone https://github.com/SBTHDR/bradsbootcamp.git`
-- `cd bradsbootcamp/
 
 ## License
 
